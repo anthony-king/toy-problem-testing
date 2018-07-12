@@ -13,7 +13,7 @@ npm run test
 
 That will confirm all the problems are passing.
 
-## Problems
+## Toy Problems
 - [Sum Three Solution](/3sum/README.md)
 
 ## Progress
