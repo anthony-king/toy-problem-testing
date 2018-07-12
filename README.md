@@ -13,6 +13,9 @@ npm run test
 
 That will confirm all the problems are passing.
 
+## Problems
+- [Sum Three Solution](/3sum/README.md)
+
 ## Progress
 [See Changelog](/CHANGELOG.md)
 
